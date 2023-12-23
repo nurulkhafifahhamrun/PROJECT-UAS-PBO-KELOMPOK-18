@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Rock
+comment0.text=\r\n\ Rock\ class\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n
+comment1.params=yOffset
+comment1.target=Rock(int)
+comment1.text=\r\n\ Constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n\ @param\ yOffset\ the\ offset\ from\ the\ starting\ coordinates\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ main\ act\ function\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+comment3.params=
+comment3.target=void\ checkCollision()
+comment3.text=\r\n\ Checks\ for\ collisions\ and\ handles\ them\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n
+comment4.params=
+comment4.target=void\ checkEdge()
+comment4.text=\r\n\ kills\ if\ over\ the\ edge\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n
+comment5.params=
+comment5.target=boolean\ touchingFrog()
+comment5.text=\r\n\ getter\ for\ touching\ frog\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n\ @return\ if\ you\ are\ toucing\ the\ frog\r\n
+comment6.params=x\ y
+comment6.target=void\ moveTo(int,\ int)
+comment6.text=\r\n\ moves\ to\ a\ specific\ location\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n\ @param\ x\ the\ new\ x\r\n\ @param\ y\ the\ new\ y\r\n
+numComments=7

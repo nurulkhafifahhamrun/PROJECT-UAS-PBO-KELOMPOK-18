@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ class\ for\ an\ item\ that\ can\ interact\ with\ the\ player\r\n\ \r\n\ @author\ Eli\ Wood\ \r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ main\ act\ function\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+comment2.params=x\ y
+comment2.target=void\ moveTo(int,\ int)
+comment2.text=\r\n\ moves\ to\ a\ specific\ location\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @param\ x\ the\ new\ x\r\n\ @param\ y\ the\ new\ y\r\n
+comment3.params=
+comment3.target=void\ checkCollision()
+comment3.text=\r\n\ checks\ if\ the\ frog\ is\ intersecting\ with\ the\ item\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+comment4.params=
+comment4.target=void\ checkEdge()
+comment4.text=\r\n\ checks\ if\ the\ item\ is\ over\ the\ edge\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+numComments=5

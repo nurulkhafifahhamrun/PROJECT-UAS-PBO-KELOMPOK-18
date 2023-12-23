@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Log
+comment0.text=\r\n\ Log\ class\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n
+comment1.params=speed\ image
+comment1.target=Log(double,\ greenfoot.GreenfootImage)
+comment1.text=\r\n\ Constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @param\ speed\ the\ log's\ speed\r\n\ @param\ image\ the\ log's\ image\r\n
+comment2.params=speed\ image\ yOffset
+comment2.target=Log(double,\ greenfoot.GreenfootImage,\ int)
+comment2.text=\r\n\ Constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @param\ speed\ the\ log's\ speed\r\n\ @param\ image\ the\ log's\ image\r\n\ @param\ yOffset\ the\ offset\ the\ log\ is\ from\ it's\ initial\ y\r\n
+comment3.params=
+comment3.target=Log()
+comment3.text=\r\n\ empty\ constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+comment4.params=speed\ image\ width\ height
+comment4.target=Log(double,\ greenfoot.GreenfootImage,\ int,\ int)
+comment4.text=\r\n\ Constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @param\ speed\ the\ log's\ speed\r\n\ @param\ image\ the\ log's\ image\r\n\ @param\ width\ the\ log's\ width\r\n\ @param\ height\ the\ log's\ height\r\n
+comment5.params=speed\ image\ width\ height\ yOffset
+comment5.target=Log(double,\ greenfoot.GreenfootImage,\ int,\ int,\ int)
+comment5.text=\r\n\ Constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @param\ speed\ the\ log's\ speed\r\n\ @param\ image\ the\ log's\ image\r\n\ @param\ width\ the\ log's\ width\r\n\ @param\ height\ the\ log's\ height\r\n\ @param\ yOffset\ the\ offset\ the\ log\ is\ from\ it's\ initial\ y\r\n
+comment6.params=
+comment6.target=void\ checkCollision()
+comment6.text=\r\n\ checks\ and\ handles\ player\ collision\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+numComments=7

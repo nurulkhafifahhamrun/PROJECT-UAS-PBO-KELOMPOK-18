@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Thing
+comment0.text=\r\n\ abstract\ class\ for\ a\ thing\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=void\ checkEdge()
+comment1.text=\r\n\ used\ for\ checking\ if\ over\ the\ edge\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+comment2.params=
+comment2.target=void\ checkCollision()
+comment2.text=\r\n\ used\ to\ detect\ and\ handle\ collision\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+comment3.params=x\ y
+comment3.target=void\ moveTo(int,\ int)
+comment3.text=\r\n\ moves\ to\ a\ specific\ location\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @param\ x\ the\ new\ x\r\n\ @param\ y\ the\ new\ y\r\n
+comment4.params=
+comment4.target=boolean\ getDead()
+comment4.text=\r\n\ checks\ if\ the\ thing\ is\ dead\r\n\ \r\n\ @return\ if\ the\ thing\ is\ dead\r\n
+numComments=5

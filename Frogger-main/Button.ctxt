@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Button\ class\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n
+comment1.params=image\ active
+comment1.target=Button(greenfoot.GreenfootImage,\ boolean)
+comment1.text=\r\n\ Constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n\ @param\ image\ the\ image\ the\ button\ will\ use\r\n\ @param\ active\ the\ default\ value\r\n
+comment2.params=image
+comment2.target=Button(greenfoot.GreenfootImage)
+comment2.text=\r\n\ Constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n\ @param\ image\ the\ image\ the\ button\ will\ use\r\n
+comment3.params=
+comment3.target=Button()
+comment3.text=\r\n\ Constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ main\ act\ function\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+comment5.params=
+comment5.target=void\ onClick()
+comment5.text=\r\n\ toggles\ the\ state\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n
+comment6.params=state
+comment6.target=void\ setState(boolean)
+comment6.text=\r\n\ sets\ the\ current\ state\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n\ @param\ state\ the\ new\ state\r\n
+comment7.params=
+comment7.target=boolean\ getState()
+comment7.text=\r\n\ gets\ the\ current\ state\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n\ @return\ the\ current\ state\r\n
+numComments=8

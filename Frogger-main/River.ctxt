@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=River
+comment1.params=
+comment1.target=River()
+comment1.text=\r\n\ default\ constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+comment2.params=width\ height
+comment2.target=River(int,\ int)
+comment2.text=\r\n\ Constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @param\ width\ the\ river's\ width\r\n\ @param\ height\ the\ river's\ height\r\n
+comment3.params=width\ height\ logSpeed\ logFrequency
+comment3.target=River(int,\ int,\ double,\ int)
+comment3.text=\r\n\ Constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @param\ width\ the\ river's\ width\r\n\ @param\ height\ the\ river's\ height\r\n\ @param\ logSpeed\ the\ speed\ of\ the\ slower\ logs\r\n\ @param\ logFrequency\ the\ frequency\ of\ the\ logs\r\n
+comment4.params=
+comment4.target=void\ createRocks()
+comment4.text=\r\n\ creates\ rocks\ evenly\ spaced\ apart\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ main\ act\ function\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+comment6.params=
+comment6.target=void\ killAll()
+comment6.text=\r\n\ removes\ all\ rocks\ and\ logs\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+numComments=7

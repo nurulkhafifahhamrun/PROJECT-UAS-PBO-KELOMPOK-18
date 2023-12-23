@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Corpse
+comment1.params=
+comment1.target=Corpse()
+comment1.text=\r\n\ empty\ constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+comment2.params=x
+comment2.target=void\ setX(int)
+comment2.text=\r\n\ setter\ for\ the\ x\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @param\ x\ the\ new\ x\r\n
+comment3.params=y
+comment3.target=void\ setY(int)
+comment3.text=\r\n\ setter\ for\ the\ y\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @param\ y\ the\ new\ y\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ main\ act\ for\ the\ corpse\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+comment5.params=
+comment5.target=void\ fade()
+comment5.text=\r\n\ makes\ the\ corpse\ 1\ point\ more\ transparent\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+comment6.params=
+comment6.target=int\ getTransparency()
+comment6.text=\r\n\ getter\ for\ the\ transparency\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @return\ the\ corpse's\ transparency\r\n
+numComments=7

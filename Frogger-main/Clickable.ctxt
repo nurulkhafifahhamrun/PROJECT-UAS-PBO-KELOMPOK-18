@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Clickable
+comment0.text=\r\n\ Clickable\ interface\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=void\ onClick()
+comment1.text=\r\n\ what\ happens\ when\ something\ is\ clicked\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+numComments=2

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Slider
+comment0.text=\r\n\ A\ slider\ that\ the\ user\ can\ move\r\n\ \r\n\ @author\ Eli\ Wood\ \r\n\ @version\ 1\r\n
+comment1.params=width\ height
+comment1.target=Slider(int,\ int)
+comment1.text=\r\n\ Constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n\ \r\n\ @param\ width\ the\ max\ width\ of\ the\ slider\r\n\ @param\ height\ the\ height\ of\ the\ slider\r\n
+comment2.params=width\ height\ image
+comment2.target=Slider(int,\ int,\ greenfoot.GreenfootImage)
+comment2.text=\r\n\ Constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n\ \r\n\ @param\ width\ the\ max\ width\ of\ the\ slider\r\n\ @param\ height\ the\ height\ of\ the\ slider\r\n\ @param\ image\ the\ image\ of\ the\ button\ portion\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ main\ act\ function\r\n\ \r\n\ @author\ Eli\ Wood\r\n
+comment4.params=
+comment4.target=void\ onClick()
+comment4.text=\r\n\ sets\ the\ value\ to\ the\ mouse's\ x\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n
+comment5.params=amount
+comment5.target=void\ adjustWidth(int)
+comment5.text=\r\n\ adjusts\ the\ width\ and\ the\ x\ accordingly\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n\ @param\ amount\ the\ new\ width\r\n
+comment6.params=value
+comment6.target=void\ setValue(int)
+comment6.text=\r\n\ sets\ the\ value\ of\ the\ slider\ and\ adjusts\ the\ width\ accordingly\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @param\ value\ the\ new\ value\r\n
+comment7.params=
+comment7.target=int\ getValue()
+comment7.text=\r\n\ gets\ the\ value\ of\ the\ slide\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n\ @return\ the\ slider's\ value\r\n
+comment8.params=
+comment8.target=boolean\ getState()
+numComments=9

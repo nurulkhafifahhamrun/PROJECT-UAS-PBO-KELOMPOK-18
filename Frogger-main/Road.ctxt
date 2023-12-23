@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Road
+comment1.params=
+comment1.target=Road()
+comment1.text=\r\n\ default\ constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n
+comment2.params=width\ height
+comment2.target=Road(int,\ int)
+comment2.text=\r\n\ constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n\ \r\n\ @param\ width\ the\ width\ of\ the\ road\r\n\ @param\ height\ the\ height\ of\ the\ road\r\n
+comment3.params=width\ height\ carSpeed\ carFrequency
+comment3.target=Road(int,\ int,\ double,\ int)
+comment3.text=\r\n\ constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n\ \r\n\ @param\ width\ the\ width\ of\ the\ road\r\n\ @param\ height\ the\ height\ of\ the\ road\r\n\ @param\ carSpeed\ the\ speed\ of\ the\ car\r\n\ @param\ carFrequency\ the\ frequency\ cars\ spawn\r\n
+comment4.params=width\ height\ carSpeed\ carFrequency\ carImage
+comment4.target=Road(int,\ int,\ double,\ int,\ greenfoot.GreenfootImage)
+comment4.text=\r\n\ constructor\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n\ \r\n\ @param\ width\ the\ width\ of\ the\ road\r\n\ @param\ height\ the\ height\ of\ the\ road\r\n\ @param\ carSpeed\ the\ speed\ of\ the\ car\r\n\ @param\ carFrequency\ the\ frequency\ cars\ spawn\r\n\ @param\ carImage\ the\ image\ the\ cars\ use\r\n
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ main\ act\ for\ the\ road\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n
+comment6.params=x
+comment6.target=void\ setX(int)
+comment6.text=\r\n\ setter\ for\ the\ x\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n\ @param\ x\ the\ new\ x\r\n
+comment7.params=y
+comment7.target=void\ setY(int)
+comment7.text=\r\n\ setter\ for\ the\ y\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n\ @param\ y\ the\ new\ y\r\n
+comment8.params=
+comment8.target=void\ killAll()
+comment8.text=\r\n\ removes\ all\ cars\r\n\ \r\n\ @author\ Eli\ Wood\r\n\ @version\ 1\r\n
+numComments=9
